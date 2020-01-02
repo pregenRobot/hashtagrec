@@ -1,0 +1,4 @@
+
+Download the actual pickled file from the following link and store it as "v1_classifier.pickle" before you try predicting a tweet
+
+https://drive.google.com/file/d/1i-R9r6ksyOnCQPrmmLZw8S7YQtWv8aqW/view?usp=sharing
