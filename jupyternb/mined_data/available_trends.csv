@@ -1,0 +1,111 @@
+country,countryCode,name,parentid,url,woeid,code,place_type
+Australia,AU,Australia,1,http://where.yahooapis.com/v1/place/23424748,23424748,12,Country
+Australia,AU,Adelaide,23424748,http://where.yahooapis.com/v1/place/1099805,1099805,7,Town
+Australia,AU,Brisbane,23424748,http://where.yahooapis.com/v1/place/1100661,1100661,7,Town
+Australia,AU,Canberra,23424748,http://where.yahooapis.com/v1/place/1100968,1100968,7,Town
+Australia,AU,Darwin,23424748,http://where.yahooapis.com/v1/place/1101597,1101597,7,Town
+Australia,AU,Melbourne,23424748,http://where.yahooapis.com/v1/place/1103816,1103816,7,Town
+Australia,AU,Perth,23424748,http://where.yahooapis.com/v1/place/1098081,1098081,7,Town
+Australia,AU,Sydney,23424748,http://where.yahooapis.com/v1/place/1105779,1105779,7,Town
+Canada,CA,Canada,1,http://where.yahooapis.com/v1/place/23424775,23424775,12,Country
+Canada,CA,Calgary,23424775,http://where.yahooapis.com/v1/place/8775,8775,7,Town
+Canada,CA,Edmonton,23424775,http://where.yahooapis.com/v1/place/8676,8676,7,Town
+Canada,CA,Montreal,23424775,http://where.yahooapis.com/v1/place/3534,3534,7,Town
+Canada,CA,Ottawa,23424775,http://where.yahooapis.com/v1/place/3369,3369,7,Town
+Canada,CA,Quebec,23424775,http://where.yahooapis.com/v1/place/3444,3444,7,Town
+Canada,CA,Toronto,23424775,http://where.yahooapis.com/v1/place/4118,4118,7,Town
+Canada,CA,Vancouver,23424775,http://where.yahooapis.com/v1/place/9807,9807,7,Town
+Canada,CA,Winnipeg,23424775,http://where.yahooapis.com/v1/place/2972,2972,7,Town
+New Zealand,NZ,New Zealand,1,http://where.yahooapis.com/v1/place/23424916,23424916,12,Country
+New Zealand,NZ,Auckland,23424916,http://where.yahooapis.com/v1/place/2348079,2348079,7,Town
+United Kingdom,GB,United Kingdom,1,http://where.yahooapis.com/v1/place/23424975,23424975,12,Country
+United Kingdom,GB,Belfast,23424975,http://where.yahooapis.com/v1/place/44544,44544,7,Town
+United Kingdom,GB,Birmingham,23424975,http://where.yahooapis.com/v1/place/12723,12723,7,Town
+United Kingdom,GB,Blackpool,23424975,http://where.yahooapis.com/v1/place/12903,12903,7,Town
+United Kingdom,GB,Bournemouth,23424975,http://where.yahooapis.com/v1/place/13383,13383,7,Town
+United Kingdom,GB,Brighton,23424975,http://where.yahooapis.com/v1/place/13911,13911,7,Town
+United Kingdom,GB,Bristol,23424975,http://where.yahooapis.com/v1/place/13963,13963,7,Town
+United Kingdom,GB,Cardiff,23424975,http://where.yahooapis.com/v1/place/15127,15127,7,Town
+United Kingdom,GB,Coventry,23424975,http://where.yahooapis.com/v1/place/17044,17044,7,Town
+United Kingdom,GB,Derby,23424975,http://where.yahooapis.com/v1/place/18114,18114,7,Town
+United Kingdom,GB,Edinburgh,23424975,http://where.yahooapis.com/v1/place/19344,19344,7,Town
+United Kingdom,GB,Glasgow,23424975,http://where.yahooapis.com/v1/place/21125,21125,7,Town
+United Kingdom,GB,Hull,23424975,http://where.yahooapis.com/v1/place/25211,25211,7,Town
+United Kingdom,GB,Leeds,23424975,http://where.yahooapis.com/v1/place/26042,26042,7,Town
+United Kingdom,GB,Leicester,23424975,http://where.yahooapis.com/v1/place/26062,26062,7,Town
+United Kingdom,GB,Liverpool,23424975,http://where.yahooapis.com/v1/place/26734,26734,7,Town
+United Kingdom,GB,London,23424975,http://where.yahooapis.com/v1/place/44418,44418,7,Town
+United Kingdom,GB,Manchester,23424975,http://where.yahooapis.com/v1/place/28218,28218,7,Town
+United Kingdom,GB,Middlesbrough,23424975,http://where.yahooapis.com/v1/place/28869,28869,7,Town
+United Kingdom,GB,Newcastle,23424975,http://where.yahooapis.com/v1/place/30079,30079,7,Town
+United Kingdom,GB,Nottingham,23424975,http://where.yahooapis.com/v1/place/30720,30720,7,Town
+United Kingdom,GB,Plymouth,23424975,http://where.yahooapis.com/v1/place/32185,32185,7,Town
+United Kingdom,GB,Portsmouth,23424975,http://where.yahooapis.com/v1/place/32452,32452,7,Town
+United Kingdom,GB,Preston,23424975,http://where.yahooapis.com/v1/place/32566,32566,7,Town
+United Kingdom,GB,Sheffield,23424975,http://where.yahooapis.com/v1/place/34503,34503,7,Town
+United Kingdom,GB,Stoke-on-Trent,23424975,http://where.yahooapis.com/v1/place/36240,36240,7,Town
+United Kingdom,GB,Swansea,23424975,http://where.yahooapis.com/v1/place/36758,36758,7,Town
+United States,US,United States,1,http://where.yahooapis.com/v1/place/23424977,23424977,12,Country
+United States,US,Albuquerque,23424977,http://where.yahooapis.com/v1/place/2352824,2352824,7,Town
+United States,US,Atlanta,23424977,http://where.yahooapis.com/v1/place/2357024,2357024,7,Town
+United States,US,Austin,23424977,http://where.yahooapis.com/v1/place/2357536,2357536,7,Town
+United States,US,Baltimore,23424977,http://where.yahooapis.com/v1/place/2358820,2358820,7,Town
+United States,US,Baton Rouge,23424977,http://where.yahooapis.com/v1/place/2359991,2359991,7,Town
+United States,US,Birmingham,23424977,http://where.yahooapis.com/v1/place/2364559,2364559,7,Town
+United States,US,Boston,23424977,http://where.yahooapis.com/v1/place/2367105,2367105,7,Town
+United States,US,Charlotte,23424977,http://where.yahooapis.com/v1/place/2378426,2378426,7,Town
+United States,US,Chicago,23424977,http://where.yahooapis.com/v1/place/2379574,2379574,7,Town
+United States,US,Cincinnati,23424977,http://where.yahooapis.com/v1/place/2380358,2380358,7,Town
+United States,US,Cleveland,23424977,http://where.yahooapis.com/v1/place/2381475,2381475,7,Town
+United States,US,Colorado Springs,23424977,http://where.yahooapis.com/v1/place/2383489,2383489,7,Town
+United States,US,Columbus,23424977,http://where.yahooapis.com/v1/place/2383660,2383660,7,Town
+United States,US,Dallas-Ft. Worth,23424977,http://where.yahooapis.com/v1/place/2388929,2388929,7,Town
+United States,US,Denver,23424977,http://where.yahooapis.com/v1/place/2391279,2391279,7,Town
+United States,US,Detroit,23424977,http://where.yahooapis.com/v1/place/2391585,2391585,7,Town
+United States,US,El Paso,23424977,http://where.yahooapis.com/v1/place/2397816,2397816,7,Town
+United States,US,Fresno,23424977,http://where.yahooapis.com/v1/place/2407517,2407517,7,Town
+United States,US,Greensboro,23424977,http://where.yahooapis.com/v1/place/2414469,2414469,7,Town
+United States,US,Harrisburg,23424977,http://where.yahooapis.com/v1/place/2418046,2418046,7,Town
+United States,US,Honolulu,23424977,http://where.yahooapis.com/v1/place/2423945,2423945,7,Town
+United States,US,Houston,23424977,http://where.yahooapis.com/v1/place/2424766,2424766,7,Town
+United States,US,Indianapolis,23424977,http://where.yahooapis.com/v1/place/2427032,2427032,7,Town
+United States,US,Jackson,23424977,http://where.yahooapis.com/v1/place/2428184,2428184,7,Town
+United States,US,Jacksonville,23424977,http://where.yahooapis.com/v1/place/2428344,2428344,7,Town
+United States,US,Kansas City,23424977,http://where.yahooapis.com/v1/place/2430683,2430683,7,Town
+United States,US,Las Vegas,23424977,http://where.yahooapis.com/v1/place/2436704,2436704,7,Town
+United States,US,Long Beach,23424977,http://where.yahooapis.com/v1/place/2441472,2441472,7,Town
+United States,US,Los Angeles,23424977,http://where.yahooapis.com/v1/place/2442047,2442047,7,Town
+United States,US,Louisville,23424977,http://where.yahooapis.com/v1/place/2442327,2442327,7,Town
+United States,US,Memphis,23424977,http://where.yahooapis.com/v1/place/2449323,2449323,7,Town
+United States,US,Mesa,23424977,http://where.yahooapis.com/v1/place/2449808,2449808,7,Town
+United States,US,Miami,23424977,http://where.yahooapis.com/v1/place/2450022,2450022,7,Town
+United States,US,Milwaukee,23424977,http://where.yahooapis.com/v1/place/2451822,2451822,7,Town
+United States,US,Minneapolis,23424977,http://where.yahooapis.com/v1/place/2452078,2452078,7,Town
+United States,US,Nashville,23424977,http://where.yahooapis.com/v1/place/2457170,2457170,7,Town
+United States,US,New Haven,23424977,http://where.yahooapis.com/v1/place/2458410,2458410,7,Town
+United States,US,New Orleans,23424977,http://where.yahooapis.com/v1/place/2458833,2458833,7,Town
+United States,US,New York,23424977,http://where.yahooapis.com/v1/place/2459115,2459115,7,Town
+United States,US,Norfolk,23424977,http://where.yahooapis.com/v1/place/2460389,2460389,7,Town
+United States,US,Oklahoma City,23424977,http://where.yahooapis.com/v1/place/2464592,2464592,7,Town
+United States,US,Omaha,23424977,http://where.yahooapis.com/v1/place/2465512,2465512,7,Town
+United States,US,Orlando,23424977,http://where.yahooapis.com/v1/place/2466256,2466256,7,Town
+United States,US,Philadelphia,23424977,http://where.yahooapis.com/v1/place/2471217,2471217,7,Town
+United States,US,Phoenix,23424977,http://where.yahooapis.com/v1/place/2471390,2471390,7,Town
+United States,US,Pittsburgh,23424977,http://where.yahooapis.com/v1/place/2473224,2473224,7,Town
+United States,US,Portland,23424977,http://where.yahooapis.com/v1/place/2475687,2475687,7,Town
+United States,US,Providence,23424977,http://where.yahooapis.com/v1/place/2477058,2477058,7,Town
+United States,US,Raleigh,23424977,http://where.yahooapis.com/v1/place/2478307,2478307,7,Town
+United States,US,Richmond,23424977,http://where.yahooapis.com/v1/place/2480894,2480894,7,Town
+United States,US,Sacramento,23424977,http://where.yahooapis.com/v1/place/2486340,2486340,7,Town
+United States,US,Salt Lake City,23424977,http://where.yahooapis.com/v1/place/2487610,2487610,7,Town
+United States,US,San Antonio,23424977,http://where.yahooapis.com/v1/place/2487796,2487796,7,Town
+United States,US,San Diego,23424977,http://where.yahooapis.com/v1/place/2487889,2487889,7,Town
+United States,US,San Francisco,23424977,http://where.yahooapis.com/v1/place/2487956,2487956,7,Town
+United States,US,San Jose,23424977,http://where.yahooapis.com/v1/place/2488042,2488042,7,Town
+United States,US,Seattle,23424977,http://where.yahooapis.com/v1/place/2490383,2490383,7,Town
+United States,US,St. Louis,23424977,http://where.yahooapis.com/v1/place/2486982,2486982,7,Town
+United States,US,Tallahassee,23424977,http://where.yahooapis.com/v1/place/2503713,2503713,7,Town
+United States,US,Tampa,23424977,http://where.yahooapis.com/v1/place/2503863,2503863,7,Town
+United States,US,Tucson,23424977,http://where.yahooapis.com/v1/place/2508428,2508428,7,Town
+United States,US,Virginia Beach,23424977,http://where.yahooapis.com/v1/place/2512636,2512636,7,Town
+United States,US,Washington,23424977,http://where.yahooapis.com/v1/place/2514815,2514815,7,Town
